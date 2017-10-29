@@ -12,9 +12,3 @@ gseem-manage-service是项目业务逻辑服务模块，包括接口和实现，
 
 gseem-manage-web是项目的静态资源、jsp动态页面模块，包括接口和实现，打包方式为jar，依赖于gseem-manage-service模块；
 
-
-# 简书
-http://www.jianshu.com/u/441d207955f2
-# Java技术日志 微信订阅号
-![Java技术日志](http://upload.jianshu.io/collections/images/488450/javalog.jpg?imageMogr2/auto-orient/strip|imageView2/1/w/240/h/240)
-
